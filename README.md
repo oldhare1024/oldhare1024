@@ -2,7 +2,7 @@
 - 👀 I’m interested in  C/C++;
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Programming competition
-- 📫 How to reach me ---(717808615@qq.com)
+- 📫 How to reach me ---(oldhare-jhr@qq.com)
 
 <!---
 oldhare1024/oldhare1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

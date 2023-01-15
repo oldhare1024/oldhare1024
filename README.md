@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oldhare1024
 - 👀 I’m interested in  C/C++;
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Pyhon
 - 💞️ I’m looking to collaborate on Programming competition
 - 📫 How to reach me ---(oldhare-jhr@qq.com)
 
